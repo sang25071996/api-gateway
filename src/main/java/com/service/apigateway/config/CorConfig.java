@@ -6,4 +6,8 @@ public class CorConfig {
     public String test() {
         return "test";
     }
+
+    public String hello() {
+        return "hello";
+    }
 }
