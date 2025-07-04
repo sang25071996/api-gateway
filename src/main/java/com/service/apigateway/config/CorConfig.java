@@ -10,4 +10,8 @@ public class CorConfig {
     public String hello() {
         return "hello";
     }
+    
+    public String world() {
+        return "world";
+    }
 }
