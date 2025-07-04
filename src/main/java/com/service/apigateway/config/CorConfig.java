@@ -2,4 +2,8 @@ package com.service.apigateway.config;
 
 public class CorConfig {
 
+
+    public String test() {
+        return "test";
+    }
 }
